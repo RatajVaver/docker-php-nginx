@@ -11,6 +11,7 @@ RUN apk add --no-cache \
   nginx \
   php81 \
   php81-common \
+  php81-tokenizer \
   php81-ctype \
   php81-curl \
   php81-dom \
